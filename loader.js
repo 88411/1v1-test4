@@ -3081,7 +3081,7 @@ function updateFullscreen(){
           return e.a = t, e
         }
 
-        Pt("<!DOCTYPE html>");
+        Pt("");
         var Ct, Rt, Dt = Pt("");
 
         function Lt(t, e) {
